@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TZWetherMapKotlin</string>
+    <string name="google_maps_key">AIzaSyAbbmDvUeFQ3v9uOs4hxZmjwByBUyXSAlg</string>
+    <string name="temperature">%1$s°C</string>
+</resources>
